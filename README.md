@@ -12,8 +12,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qrcodecomponent-with-simple-html-and-css--TVsuqUAoX)
-- Live Site URL: [Add live site URL here](https://gamesdst.github.io/qr-code-component/)
+- [Solution URL](https://www.frontendmentor.io/solutions/qrcodecomponent-with-simple-html-and-css--TVsuqUAoX)
+- [Live Site URL](https://gamesdst.github.io/qr-code-component/)
 
 ### Built with
 
